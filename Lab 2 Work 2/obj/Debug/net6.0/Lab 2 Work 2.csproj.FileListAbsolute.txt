@@ -1,0 +1,14 @@
+D:\VisualStudio\Lab 2 Work 2\Lab 2 Work 2\bin\Debug\net6.0\Lab 2 Work 2.exe
+D:\VisualStudio\Lab 2 Work 2\Lab 2 Work 2\bin\Debug\net6.0\Lab 2 Work 2.deps.json
+D:\VisualStudio\Lab 2 Work 2\Lab 2 Work 2\bin\Debug\net6.0\Lab 2 Work 2.runtimeconfig.json
+D:\VisualStudio\Lab 2 Work 2\Lab 2 Work 2\bin\Debug\net6.0\Lab 2 Work 2.dll
+D:\VisualStudio\Lab 2 Work 2\Lab 2 Work 2\bin\Debug\net6.0\Lab 2 Work 2.pdb
+D:\VisualStudio\Lab 2 Work 2\Lab 2 Work 2\obj\Debug\net6.0\Lab 2 Work 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Lab 2 Work 2\Lab 2 Work 2\obj\Debug\net6.0\Lab 2 Work 2.AssemblyInfoInputs.cache
+D:\VisualStudio\Lab 2 Work 2\Lab 2 Work 2\obj\Debug\net6.0\Lab 2 Work 2.AssemblyInfo.cs
+D:\VisualStudio\Lab 2 Work 2\Lab 2 Work 2\obj\Debug\net6.0\Lab 2 Work 2.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Lab 2 Work 2\Lab 2 Work 2\obj\Debug\net6.0\Lab 2 Work 2.dll
+D:\VisualStudio\Lab 2 Work 2\Lab 2 Work 2\obj\Debug\net6.0\refint\Lab 2 Work 2.dll
+D:\VisualStudio\Lab 2 Work 2\Lab 2 Work 2\obj\Debug\net6.0\Lab 2 Work 2.pdb
+D:\VisualStudio\Lab 2 Work 2\Lab 2 Work 2\obj\Debug\net6.0\Lab 2 Work 2.genruntimeconfig.cache
+D:\VisualStudio\Lab 2 Work 2\Lab 2 Work 2\obj\Debug\net6.0\ref\Lab 2 Work 2.dll
